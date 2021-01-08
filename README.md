@@ -6,7 +6,7 @@ First Header | Second Header
 ------------ | -------------
 Birthday | 14/03
 Favorite Color | Black , light pink and turquoise
-Favorite Food | 
+Favorite Food | Scampi pizza :pizza:
 Pineapple on Pizza | <ul><li>-[ ] Yes</li> <li>-[X] No</li> </ul>
 ## Hobbies
 * Cosplay
