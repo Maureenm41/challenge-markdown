@@ -4,7 +4,9 @@
 
 ![image](photo.jpg)
 
-## Me in one sentence 
+## Me in one sentence
+
+I'am a shy but funny girl when you know me better :smile:
 
 | Birthday      |     14/03      |
 | :------------ | :-------------: |
