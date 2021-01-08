@@ -8,3 +8,13 @@ Birthday | 14/03
 Favorite Color | Black , light pink and turquoise
 Favorite Food | 
 Pineapple on Pizza | <ul><li>-[ ] Yes</li> <li>-[X] No</li> </ul>
+## Hobbies
+* Cosplay
+* Drawing
+* Music 
+* Reading
+## You can always
+
+
+
+<< previous || Marchal Maureen || next >>
