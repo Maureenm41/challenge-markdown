@@ -18,9 +18,15 @@ If you need help. I'm always glad ti be able to help if i can .
 
 
 ## A funny Story
+So one day , one of you cat when out and went on a hunt.
+She cames back with a rat (or a mouse I don't remember)
+But it was still alive :') .
+Another time we didn't saw her coming home with a little present . 
+We only find out later in the evening when our 3 cats were player with the mouse :') 
 
 ### TL;DR
+Don't trust your cat with their present :')
 
 
 
-<< previous || Marchal Maureen || next >>
+<< [previous](https://github.com/Laurent-Jazzon/challenge-markdown/blob/master/challenge-markdown.md) || Marchal Maureen || next >>
