@@ -10,7 +10,7 @@
 | Gender        |     Female     | 
 | Favorite Color | Black , light pink and turquoise |
 | Favorite Food | Scampi pizza :pizza: |
-| Pineapple on Pizza | <ul><li>-[ ] Yes</li> <li>-[X] No</li> </ul> |
+| Pineapple on Pizza | -[ ] Yes-[X] No |
 
 ## Hobbies
 
