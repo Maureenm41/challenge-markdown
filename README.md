@@ -16,6 +16,10 @@ Pineapple on Pizza | <ul><li>-[ ] Yes</li> <li>-[X] No</li> </ul>
 ## You can always count on me when 
 
 
+## A funny Story
+
+### TL;DR
+
 
 
 << previous || Marchal Maureen || next >>
