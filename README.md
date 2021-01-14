@@ -21,7 +21,7 @@ I'am a shy but funny girl when you know me better :smile:
 * Drawing
 * Music 
    * Rock
-   * Loffy
+   * Lofi
 * Reading
 
 ## You can always count on me when 
